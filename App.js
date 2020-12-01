@@ -17,16 +17,17 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#423f3f',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-around',
   },
 
   text_1: {
-    color: '#f2ee79',
-    fontSize: 18
+    color: 'yellow',
+    fontSize: 18,
+    fontWeight: 'bold',
   },
 
   text_2: {
-    color: '#ffffff',
-    fontSize: 10
+    color: 'white',
+    fontSize: 10,
   },
 });
